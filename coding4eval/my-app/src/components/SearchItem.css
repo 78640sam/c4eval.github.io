@@ -1,0 +1,25 @@
+#navbar{
+    display:flex;
+justify-content: left;
+margin-left:20px;
+height:45px;
+}
+.search-box-img1{
+ 
+    width:150px;
+    
+}
+.search-box1{
+ 
+    width:700px;
+}
+.search{
+    width:100px;
+   
+}
+#btn1{
+    display:flex;
+    margin-left:80px;
+margin-top:10px;
+flex-basis:5px;
+}
